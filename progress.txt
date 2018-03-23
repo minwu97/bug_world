@@ -1,0 +1,17 @@
+//Phase 1 - Adam Touzani & Giorgi Kabanashvili
+
+Implemented World.h and World.cpp
+Implemented Cell.h and Cell.cpp
+Preliminary Unit Testing for World.h and World.cpp based on CppUnit
+* Unit testing still requires modifications to run properly *
+
+//Phase 2 - Min Wu & Sergej Kravcov
+
+Implemented Marker.h and Marker.cpp
+Implemented Bug.h and Bug.cpp
+Added unit testing for Marker and Bug
+Added all the header files for Instructions
+Added header file for Program
+
+To Do:
+Implement all instruction classes and the program class

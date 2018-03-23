@@ -1,2 +1,2 @@
-# bug_world
-SE project
+# bug-world
+Project of Software Engineering Lab
