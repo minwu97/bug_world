@@ -13,5 +13,9 @@ Added unit testing for Marker and Bug
 Added all the header files for Instructions
 Added header file for Program
 
-To Do:
-Implement all instruction classes and the program class
+//Phase 3 - Min Wu & Shen Huang
+
+Reconstructed the files such that simulator and assembler are separate 
+Fixed errors regarding overriding in the simulator
+Implemented all header files for the assembler
+Implemented instruction classes (partial)
